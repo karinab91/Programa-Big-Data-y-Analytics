@@ -1,2 +1,2 @@
 # Programa-Big-Data-y-Analytics
-Lab IBM certif.
+Creado en lab de IBM Certif.
