@@ -1,2 +1,3 @@
 # Programa-Big-Data-y-Analytics
-Creado en lab de IBM Certif.
+Programa de Alta especialización en Big Data y Analytics por la Universidad Nacional Agraria de La Molina.
+
